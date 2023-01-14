@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+import plotly.express as px
 st.title('Diffusion Changes by Tool')
 
 with st.sidebar:
